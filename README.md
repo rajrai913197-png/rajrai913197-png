@@ -141,9 +141,7 @@ Currently, I'm focused on becoming a professional **MERN Stack Developer** by bu
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajrai913197-png&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajrai913197-png&layout=compact&theme=tokyonight&hide_border=true"/>
+https://github-readme-stats.vercel.app/api?username=rajrai913197-png&show_icons=true&theme=tokyonight&hide_border=true
 
 </p>
 
